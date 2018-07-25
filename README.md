@@ -4,6 +4,7 @@
   对drawhelper.js进行修改实现
 # 修改内容：
   > 将在球面上绘制polyine扩展为在地形terrain上绘制polyine
+  > 
   > 修复绘制polyine时，最后双击结束时在终点绘制3个点的bug
 # 示意图：
 ![示意图](https://github.com/WoShiDongZhiWu/cesium_drawPolyine_on_terrain/blob/master/img_readme/demo.png)
@@ -15,6 +16,7 @@
   modify the drawhelper.js
 # Complete content:
   > drawing polyine on terrain
+  > 
   > Repair bug (repaired)
     Bug: when drawing polyine, 3 points are drawn at the end of the final double click.
 # Example diagram:
