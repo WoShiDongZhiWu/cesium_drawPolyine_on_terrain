@@ -1,0 +1,4 @@
+develop based on the drawhelper-v1.41
+
+将在球面上绘制polyine扩展为在terrain上绘制polyine
+修复绘制polyine时，最后双击结束时在终点绘制了3个点的bug
